@@ -9,6 +9,7 @@ def nyc_pigeon_organizer(data)
         end
         if !birds_new[name][key]
           birds_new[name][key] = [colors] << colors.to_s
+          binding.pry
       end 
     end 
    end  
