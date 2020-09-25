@@ -11,7 +11,7 @@ def nyc_pigeon_organizer(data)
           birds_new[name][key] = []
         #  binding.pry
       end 
-      birds_new = 
+      birds_new[name][key]
     end 
    end  
 end
