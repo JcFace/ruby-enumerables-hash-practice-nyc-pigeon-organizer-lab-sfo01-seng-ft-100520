@@ -11,6 +11,7 @@ def nyc_pigeon_organizer(data)
           birds_new[name][key] = [colors]
           binding.pry
       end 
+      
     end 
    end  
 end
